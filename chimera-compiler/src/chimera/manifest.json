@@ -1,0 +1,9 @@
+{
+  "handshake": "OK",
+  "targets": [
+    { "name": "linux-amd64", "status": "sealed" },
+    { "name": "darwin-arm64", "status": "staged" },
+    { "name": "wasm32", "status": "ready" }
+  ],
+  "focus": "wasm32"
+}

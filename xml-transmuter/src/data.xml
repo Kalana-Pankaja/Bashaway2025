@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <department name="Engineering">
+        <team name="Backend">
+            <member>Alice</member>
+            <member>Bob</member>
+        </team>
+        <team name="Frontend">
+            <member>Charlie</member>
+        </team>
+    </department>
+</company>
