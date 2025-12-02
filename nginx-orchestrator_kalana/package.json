@@ -1,0 +1,17 @@
+{
+  "name": "nginx-orchestrator",
+  "scripts": {
+    "execute": "bash execute.sh",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "8.0.2",
+    "@sliit-foss/actions-exec-wrapper": "1.1.1",
+    "@sliit-foss/bashaway": "1.6.0-blizzard.0",
+    "axios": "1.6.0",
+    "dockerode": "3.3.5",
+    "jest": "29.6.2"
+  },
+  "packageManager": "pnpm@8.0.0"
+}
+
